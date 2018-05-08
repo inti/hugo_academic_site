@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Inti Pedroso Rovira</title>
+    <link>inti.github.io/publication/</link>
+    <description>Recent content in Publications on Inti Pedroso Rovira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="inti.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neurogenomic Signatures of Successes and Failures in Life-History Transitions in a Key Insect Pollinator</title>
+      <link>inti.github.io/publication/bumblebee-neurogenomic-failure-paper-name/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/bumblebee-neurogenomic-failure-paper-name/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
