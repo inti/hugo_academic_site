@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Exploring miniature insect brains using micro-CT scanning techniques</title>
+      <link>inti.github.io/publication/bumblebee-microct/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/bumblebee-microct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>inti.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
@@ -251,6 +260,15 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A genome-wide analysis of putative functional and exonic variation associated with extremely high intelligence</title>
+      <link>inti.github.io/publication/iq-gwas/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/iq-gwas/</guid>
+      <description></description>
     </item>
     
   </channel>
