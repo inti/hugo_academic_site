@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Reduced anxiety and depression-like behaviours in the circadian period mutant mouse afterhours.</title>
+      <link>inti.github.io/publication/circadian-period-mutant/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/circadian-period-mutant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring miniature insect brains using micro-CT scanning techniques</title>
       <link>inti.github.io/publication/bumblebee-microct/</link>
       <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
@@ -268,6 +277,51 @@ git submodule update --init --recursive
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>inti.github.io/publication/iq-gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomewide association analysis of copy number variation in recurrent depressive disorder</title>
+      <link>inti.github.io/publication/depression-cnv/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/depression-cnv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCF4 (e22; ITF2): a schizophreniaassociated gene with pleiotropic effects on human disease</title>
+      <link>inti.github.io/publication/review-tcf4/</link>
+      <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/review-tcf4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common genetic variants and geneexpression changes associated with bipolar disorder are overrepresented among brain signaling pathway genes</title>
+      <link>inti.github.io/publication/bipolar-gwas-networks/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/bipolar-gwas-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication of association of 3p21.1 with susceptibility to bipolar disorder but not major depression.</title>
+      <link>inti.github.io/publication/bipolar-gwas-nature-comment/</link>
+      <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/bipolar-gwas-nature-comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome wide association with MRI atrophy measures as a quantitative trait locus for Alzheimer&#39;s disease.</title>
+      <link>inti.github.io/publication/ad-gwas-mri/</link>
+      <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/ad-gwas-mri/</guid>
       <description></description>
     </item>
     
