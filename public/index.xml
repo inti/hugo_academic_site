@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Selected summaries from the XVI World Congress of Psychiatric Genetics, Osaka, Japan, 11-15 October 2008</title>
+      <link>inti.github.io/publication/congress-summary/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/congress-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring miniature insect brains using micro-CT scanning techniques</title>
       <link>inti.github.io/publication/bumblebee-microct/</link>
       <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
@@ -308,20 +317,20 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>ADAMTSL3 as a candidate gene for schizophrenia: gene sequencing and ultrahigh density association analysis by imputation.</title>
+      <link>inti.github.io/publication/adamtsl3/</link>
+      <pubDate>Sat, 15 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>inti.github.io/publication/adamtsl3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Replication of association of 3p21.1 with susceptibility to bipolar disorder but not major depression.</title>
       <link>inti.github.io/publication/bipolar-gwas-nature-comment/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>inti.github.io/publication/bipolar-gwas-nature-comment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome wide association with MRI atrophy measures as a quantitative trait locus for Alzheimer&#39;s disease.</title>
-      <link>inti.github.io/publication/ad-gwas-mri/</link>
-      <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>inti.github.io/publication/ad-gwas-mri/</guid>
       <description></description>
     </item>
     
