@@ -3,7 +3,7 @@
 date = 2018-05-08T00:00:00
 
 # Project title.
-title = "CNV Caller"
+title = "Taxonomizer"
 
 # Project summary to display on homepage.
 summary = "Phylostratigraphy to mine genome annotations"
