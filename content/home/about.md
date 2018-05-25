@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Genetics and Genomics",
-    "Translational Research",
+    "Translational Research in Health Care",
+    "Ecosystem Conervation and Biodiversity"
     "Genome Evolution",
     "Bioinformatics",
     "Artificial Intelligence",
@@ -52,5 +53,4 @@ weight = 5
 +++
 
 # Biography
-
-Work in progress.
+I have over 10 years of research and innovation experience including 5 years working on industry R&D and Innovation. I thrive as part of and leading interdisciplinary teams tackling complex challenges. I combine genetics, genomics, statistics  and data analytics with intellectual property, innovation and systems level problems solving to transform challenges into value both in academic and industry environments. 
