@@ -20,6 +20,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Deep Learing Coursera Specialization"
+  institution = "Coursera.com"
+  year = 2018 - Ongoing
+
+[[education.courses]]
+  course = "Corporate Innovation edX MicroMaster"
+  institution = "University of Queensland"
+  year = 2018 - Ongoing
+
+[[education.courses]]
   course = "Diploma on Intellectual Property"
   institution = "Pontificia Universidad Católica de Chile"
   year = 2016
