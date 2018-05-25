@@ -22,12 +22,12 @@ weight = 5
 [[education.courses]]
   course = "Deep Learing Coursera Specialization"
   institution = "Coursera.com"
-  year = 2018 - Ongoing
+  year = Ongoing
 
 [[education.courses]]
   course = "Corporate Innovation edX MicroMaster"
   institution = "University of Queensland"
-  year = 2018 - Ongoing
+  year = Ongoing
 
 [[education.courses]]
   course = "Diploma on Intellectual Property"
