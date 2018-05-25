@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Genetics and Genomics",
     "Translational Research in Health Care",
-    "Ecosystem Conervation and Biodiversity"
+    "Ecosystem Conervation and Biodiversity",
     "Genome Evolution",
     "Bioinformatics",
     "Artificial Intelligence",
