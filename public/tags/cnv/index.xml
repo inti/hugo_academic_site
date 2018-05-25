@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cnv on Inti Pedroso Rovira</title>
+    <link>inti.github.io/tags/cnv/</link>
+    <description>Recent content in Cnv on Inti Pedroso Rovira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="inti.github.io/tags/cnv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CNV Caller</title>
+      <link>inti.github.io/project/cnv-caller/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0300</pubDate>
+      
+      <guid>inti.github.io/project/cnv-caller/</guid>
+      <description>This project aims to develop a CNV caller for NGS short read sequencing data on using a Hierarchical Dirichlet Process &amp;amp; HMM technology. Code lives here https://bitbucket.org/intipedroso/cnv-hdp-hmm</description>
+    </item>
+    
+  </channel>
+</rss>
